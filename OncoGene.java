@@ -1,4 +1,4 @@
-package edu.mayo.gene;
+package edu.archive;
 
 import org.json.simple.parser.ParseException;
 import org.xml.sax.SAXException;
